@@ -1,0 +1,27 @@
+.wrapImage  img {
+    max-width: 100%;
+}
+.wrapImage {
+    width: 200px;
+    height: auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+.ui-sortable-helper {
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+.ui-sortable-placeholder {
+    background-color: red;
+}
+
+.sort-highlight{
+    border: 1px solid red;
+    font-weight: bold;
+    font-size: 45px;
+    background-color: lightblue;
+    height: 100px;
+}
